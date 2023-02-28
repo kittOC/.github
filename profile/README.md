@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi there 👋
+
+## 🍿 Create a new repository
+
+If you want to create a new repository, click the green "New" button.
+If you can not see it, contact <konstantinos.grevenitis@holonix.it>
 
 <!--
 
