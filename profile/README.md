@@ -10,6 +10,31 @@ If you want to create a new repository, click the green "New" button below.
 
 If you can not see it, contact <konstantinos.grevenitis@holonix.it>
 
+## Actions
+
+### Type A actions
+
+- THANOS	
+- AI4SDW	
+- octiPLANT	
+- ExtruAI	
+- He.Go.App	
+- I4MOS	
+- AIGreenWaste	
+- XTREAMESTREAM	R
+- EORDINIS	
+- CNCSmart
+
+### Type B actions
+
+- JitJip	
+- FASPAS	
+- POWERDECK	
+- AIMS 4 QC	
+- DEBORA	
+- CognEcoQuali	
+- QAI4GFRPs
+
 <!--
 
 **Here are some ideas to get you started:**
