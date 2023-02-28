@@ -1,5 +1,9 @@
 # Hi there 👋
 
+## Technical questions discussion board. This board is PUBLIC.
+
+The board is here <https://github.com/c0c0n3/kitt4sme.live/discussions>
+
 ## 🍿 Create a new repository
 
 If you want to create a new repository, click the green "New" button below.
