@@ -12,44 +12,32 @@ The actions must respect the following guidelines when they decide to ask a ques
 Test first, then ask: Please first study the documentation, try to make it work by yourselves, and then ask a question. Avoid bombing the platform with questions about everything. 
 - The discussion board is public: The github discussion board is public. So please avoid including private business information in your questions. 
 
-## 🍿 Create a new repository
+## 👩‍💻 Repositories
+### Create a new repository
 
 If you want to create a new repository, click the green "New" button below.
 
 If you can not see it, contact <konstantinos.grevenitis@holonix.it>
 
-## 🍿 Add users to the repository
+### Add users to the repository
 
 1. Go to the repository
 2. Settings
 3. Collaborators and Teams
 4. Click the green button "Add people"
 
+## 🧙 KITT4SME platform
 
-## 🍿 Actions
+### Software catalogue
 
-### Type A actions
+You can find the KITT4SME platform's software catalogue [here](https://github.com/c0c0n3/kitt4sme/blob/master/arch/catalogue/README.md)
 
-- THANOS	
-- AI4SDW	
-- octiPLANT	
-- ExtruAI	
-- He.Go.App	
-- I4MOS	
-- AIGreenWaste	
-- XTREAMESTREAM	R
-- EORDINIS	
-- CNCSmart
+### FIWARE stack
 
-### Type B actions
-
-- JitJip	
-- FASPAS	
-- POWERDECK	
-- AIMS 4 QC	
-- DEBORA	
-- CognEcoQuali	
-- QAI4GFRPs
+- [Orion Context Broker](https://fiware-orion.readthedocs.io/en/master/)
+- [QuantumLeap](https://quantumleap.readthedocs.io/en/latest/)
+- [CrateDb](https://crate.io/)
+- [Timescale](https://www.timescale.com/)
 
 <!--
 
