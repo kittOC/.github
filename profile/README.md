@@ -14,6 +14,14 @@ If you want to create a new repository, click the green "New" button below.
 
 If you can not see it, contact <konstantinos.grevenitis@holonix.it>
 
+## 🍿 Add users to the repository
+
+1. Go to the repository
+2. Settings
+3. Collaborators and Teams
+4. Click the green button "Add people"
+
+
 ## 🍿 Actions
 
 ### Type A actions
