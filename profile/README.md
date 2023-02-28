@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Technical questions discussion board. This board is PUBLIC.
+## 🍿 Technical questions discussion board. This board is PUBLIC.
 
 The board is here <https://github.com/c0c0n3/kitt4sme.live/discussions>
 
