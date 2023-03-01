@@ -15,9 +15,11 @@ Test first, then ask: Please first study the documentation, try to make it work 
 ## 👩‍💻 Repositories and projects
 ### Create a new repository
 
-If you want to create a new repository, click the green "New" button below.
-
-If you can not see it, contact <konstantinos.grevenitis@holonix.it>
+1. If you want to create a new repository, click the green "New" button below.
+    
+      a. If you can not see it, contact <konstantinos.grevenitis@holonix.it>
+    
+2. Name the repository using the following pattern TB{ActionNumber}{NameOfTheAction}
 
 ### Add users to the repository
 
