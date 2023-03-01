@@ -12,7 +12,7 @@ The actions must respect the following guidelines when they decide to ask a ques
 Test first, then ask: Please first study the documentation, try to make it work by yourselves, and then ask a question. Avoid bombing the platform with questions about everything. 
 - The discussion board is public: The github discussion board is public. So please avoid including private business information in your questions. 
 
-## 👩‍💻 Repositories
+## 👩‍💻 Repositories and projects
 ### Create a new repository
 
 If you want to create a new repository, click the green "New" button below.
@@ -24,7 +24,16 @@ If you can not see it, contact <konstantinos.grevenitis@holonix.it>
 1. Go to the repository
 2. Settings
 3. Collaborators and Teams
-4. Click the green button "Add people"
+4. Click the green button "Add people".
+
+### Create a project
+
+1.	Go to the repository you just created.
+2.	Projects
+3.	Change the green button from “Link project” to “New project”
+4.	Click “New project”
+5.	Select the “Board option”
+6.	Click create
 
 ## 🧙 KITT4SME platform
 
